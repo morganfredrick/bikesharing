@@ -2,7 +2,7 @@
 Click here to view the dashboard on Tableau: [NYC Citi Bike-Sharing Analysis Dashboard](https://public.tableau.com/app/profile/morgan.fredrick/viz/NYCCitiBike-shareAnalysis/NYCCitiBikeAnalysis?publish=yes)
 
 ## Overview of Analysis
-The purpose of this analysis is to create a proposal to investors for a bike-sharing program in Des Moines, Iowa, based on data from the Citi Bike-Share service in New York City, New York. From the dataset, we were able to create visualizations to show average biking durations trends, relationships between gender and popular biking times, and top start and drop off locations. Specifically, this set of visualizations: 
+The purpose of this analysis is to create a proposal to investors for a bike-sharing program in Des Moines, Iowa, based on data from the Citi Bike-Share service in New York City, New York. From the dataset, we were able to create visualizations to show average bike usage duration trends, relationships between gender and popular biking times, and top start and drop off locations. Specifically, this set of visualizations: 
 
 * Shows the length of time that bikes are checked out for all riders and genders
 * Shows the number of bike trips for all riders and genders for each hour of each weekday
