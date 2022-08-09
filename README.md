@@ -9,7 +9,7 @@ The purpose of this analysis is to create a proposal to investors for a bike-sha
 * Shows the number of bike trips for each type of user and gender for each weekday
 
 ## Results
-The results are broken down from the Tableau dashboard below:
+The visualization results of the analysis are shown below:
 ![Top Starting Locations](https://github.com/morganfredrick/bikesharing/blob/main/Resources/Top%20Starting%20Locations.png)
 ![August Peak Hours](https://github.com/morganfredrick/bikesharing/blob/main/Resources/August%20Peak%20Hours.png)
 ![Trips by Workday by Hour](https://github.com/morganfredrick/bikesharing/blob/main/Resources/Trips%20by%20Workday%20(Hour).png)
